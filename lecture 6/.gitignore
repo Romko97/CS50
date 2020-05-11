@@ -1,3 +1,4 @@
+venvCS50/
 venv/ 
 *.pyc 
 __pycache__/
