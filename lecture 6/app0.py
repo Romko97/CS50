@@ -21,3 +21,7 @@ def second():
 @app.route("/third")
 def third():
     return texts[2]
+
+@app.route("/developer")
+def developer():
+    return "Romam Halychanivskyi"
